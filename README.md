@@ -1,1 +1,1 @@
-3-quick_sort.c
+2-selection_sort.c
